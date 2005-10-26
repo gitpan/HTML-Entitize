@@ -1,0 +1,7 @@
+Revision history for Perl extension HTML::Entitize.
+
+1.00  Fri Oct 25 15:30:45 2004
+	- Original version
+	- Source code author: David Nicol
+	- I (Ron Savage) am releasing this module, which David emailed to me,
+		because it is a pre-requisite for my module DBIx::Admin
